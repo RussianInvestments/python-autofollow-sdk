@@ -45,3 +45,11 @@ build-backend = "poetry.core.masonry.api"
 ignore = [
     'E721'
     ]
+
+[tool.isort]
+skip = ["ttech_autofollow/__init__.py"]
+
+[tool.black]
+exclude = '''
+ ^\_\_init__\.py$
+'''
