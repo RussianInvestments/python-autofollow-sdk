@@ -8,7 +8,7 @@ from ttech_autofollow import (
 
 class Client:
     def __init__(
-        self, access_token=None, host="https://invest-public-api.tinkoff.ru", **kwargs
+        self, access_token=None, host="https://invest-public-api.tbank.ru", **kwargs
     ):
         configuration = kwargs.get("configuration", None)
         self.configuration = (
