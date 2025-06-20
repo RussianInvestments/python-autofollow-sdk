@@ -43,11 +43,11 @@ with Client(access_token=TOKEN) as client:
 ```
 
 > :warning: **Не публикуйте токены в общедоступные репозитории**<br/><br/>
-> Один из вариантов сохранения токена - использование [environment variables](https://github.com/RussianInvestments/python-autofollow-sdk/blob/release/main/examples/get_strategies.py).
+> Один из вариантов сохранения токена - использование [environment variables](https://github.com/RussianInvestments/python-autofollow-sdk/blob/main/examples/get_strategies.py).
 
-Остальные примеры доступны в [examples](https://github.com/RussianInvestments/python-autofollow-sdk/blob/release/main/examples/).
+Остальные примеры доступны в [examples](https://github.com/RussianInvestments/python-autofollow-sdk/blob/main/examples).
 
 
 ## License
 
-Лицензия [The Apache License](https://github.com/RussianInvestments/invest-python/blob/main/LICENSE).
+Лицензия [The Apache License](https://github.com/RussianInvestments/python-autofollow-sdk/blob/main/LICENSE).

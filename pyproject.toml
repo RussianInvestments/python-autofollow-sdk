@@ -1,6 +1,6 @@
 [project]
 name = "Ttech-autofollow-sdk"
-version = "1.0.0"
+version = "1.0.2"
 description = "T-Technologies Public Invest Autofollow SDK"
 authors = [
     {name = "S. Nemets"},
